@@ -1,0 +1,6 @@
+Scratch notes
+=============
+
+- Try editing this file and run `git diff`.
+- Stage with `git add notes.txt`.
+- Commit with `git commit -m "update notes"`.

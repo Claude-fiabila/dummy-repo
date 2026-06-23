@@ -1,0 +1,5 @@
+id,name,email,role
+1,Alice,alice@example.com,admin
+2,Bob,bob@example.com,user
+3,Carol,carol@example.com,user
+4,Dave,dave@example.com,viewer
