@@ -1,8 +1,8 @@
 const greeting = document.getElementById("greeting");
 const cta = document.getElementById("cta");
 
-function sayHello(name) {
-  return `Hello, ${name}!`;
+function helloWorld {
+  return `Hello, world!`
 }
 
 cta.addEventListener("click", () => {
